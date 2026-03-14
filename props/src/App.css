@@ -1,0 +1,27 @@
+ nav{
+    color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+   
+    
+ }
+
+ nav ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  justify-content: space-between;
+  gap: 60px;
+ }
+
+ .box{
+  height: 50vh;
+  width: 50vb;
+  background-color: aliceblue;
+  color: brown;
+  
+ 
+ }
